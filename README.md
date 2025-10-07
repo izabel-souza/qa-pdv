@@ -1,6 +1,14 @@
 # pdv
 Sistema de ERP web desenvolvido em Java com Spring Framework 
 
+# Link do documento do Plano de Teste
+https://docs.google.com/document/d/1yJ1HbryH37ubZKkmaHUzn8jFX23Ox9zNgjQn83tilfg/edit?usp=sharing
+
+# Link do documento de Testes Manuais
+https://docs.google.com/document/d/1yudkPkBs9H3UMxCwu5Lg5rLogHO5h49KsCxGhzkSer0/edit?usp=sharing
+
+O teste manual realizado no Testlink está localizado dentro da pasta "artefatos" do projeto.
+
 # Recursos
 - Cadastro produtos/clientes/fornecedor
 - Controle de estoque
